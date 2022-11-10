@@ -1,5 +1,54 @@
 .App {
   text-align: center;
+
+}
+.head{
+  color: #DD9030 ;
+  font-size: 2em;
+}
+.para{
+  color:white;
+  font-size: 15px;
+}
+.hrline{
+  width: 50%;
+  border:2px solid #DD9030;
+}
+.pagecenter{
+  float:none;
+  max-width: 90%;
+  width:100%;
+  margin:0 auto;
+  background-color: #012A0A
+}
+.body{
+  background-color: orange;
+}
+.blogcard{
+
+  background-color:#012A0A;
+}
+
+
+/* .Blogcard,.blogCard {
+  background-color: #DD9030;
+  float: left;
+  width: 20%;
+  padding: 1em;
+  margin: 0.8em;
+  border-radius: 18px;
+} */
+.pat {
+  padding: 2em;
+  margin: 0em;
+  background: orange;
+  border-radius: 30px;
+  height: 80px;
+}
+.blogss{
+  float:left;
+  width:22%;
+  margin:1em;
 }
 
 .App-logo {

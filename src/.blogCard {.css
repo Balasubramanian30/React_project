@@ -1,0 +1,13 @@
+.blogCard {
+  float: left;
+  width: 22%;
+  margin: 1em;
+}
+
+
+.blogss {
+  float: left;
+  width: 100%;
+  margin: 1em;
+  display: inline;
+}
